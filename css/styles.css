@@ -60,7 +60,7 @@ section header {
 #content {
 	width: 960px;
 	display: flex;}
-#content > .column {
+.column {
 	margin: 10px;	
 	background-color: #ffffff;
 	border: 4px double #000;
@@ -71,4 +71,5 @@ a {
 	}
 a:hover {
 	color: #A91622;}
+
 
