@@ -59,18 +59,21 @@ section header {
 */
 #content {
 	width: 960px;
-	/*display: flex;}*/
+	/*display: flex;*/
+	}
 .column {
 	margin: 10px;	
 	background-color: #ffffff;
 	border: 4px double #000;
-	/*flex: 1;}*/
+	/*flex: 1;*/
+	}
 a {
 	color: #000000;
 	text-decoration: none;
 	}
 a:hover {
 	color: #A91622;}
+
 
 
 
